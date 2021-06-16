@@ -1,9 +1,10 @@
 function Header() {
     return (
-        <header clasName="header">
+        <header className="header">
             <h2>Task Tracker</h2>
              <button className="btn">Add</button>
         </header>
+       
     )
 }
 
